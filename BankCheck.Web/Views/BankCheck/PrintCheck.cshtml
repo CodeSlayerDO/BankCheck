@@ -1,0 +1,53 @@
+﻿@model BankCheck.Web.Models.BankCheckModel
+
+<div class="book-example panel panel-primary">
+    <div class="panel-heading panel-head">Cheque</div>
+    <div class="panel-body">
+        <a id="A1" href="@Url.Action("Index")"
+           class="btn btn-success">
+            <span class="glyphicon glyphicon-plus"></span> Imprimir Nueva
+        </a>
+
+        <table class="table" style="margin: 2px">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.CompanyName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ClientName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Date)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Amount)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.StringAmount)
+                </th>
+
+                <th></th>
+            </tr>
+           
+                <tr>
+                    <td>
+                        @Html.DisplayFor(model => model.CompanyName)
+                        
+                    </td>
+                    <td>
+                        @Html.DisplayFor(model => model.ClientName)
+                    </td>
+                    <td>
+                        @Model.Date.ToShortDateString()
+                    </td>
+                    <td>
+                        @Html.DisplayFor(model => model.Amount)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(model => model.StringAmount)
+                    </td>
+                </tr>
+            
+        </table>
+    </div>
+</div> 

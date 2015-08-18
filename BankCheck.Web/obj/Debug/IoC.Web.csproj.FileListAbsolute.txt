@@ -1,0 +1,272 @@
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\IoC.Web.dll.config
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\IoC.Web.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\IoC.Web.pdb
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Antlr3.Runtime.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\EntityFramework.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\EntityFramework.SqlServer.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\IoC.Core.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\IoC.Data.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\IoC.Service.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Microsoft.Owin.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Microsoft.Owin.Security.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Newtonsoft.Json.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Ninject.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Ninject.Web.Common.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Ninject.Web.Mvc.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Owin.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\System.Web.Helpers.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\System.Web.Mvc.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\System.Web.Optimization.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\System.Web.Razor.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\System.Web.WebPages.Deployment.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\System.Web.WebPages.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\System.Web.WebPages.Razor.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\WebActivatorEx.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\WebGrease.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\IoC.Core.pdb
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\IoC.Data.pdb
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\IoC.Service.pdb
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\EntityFramework.xml
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\EntityFramework.SqlServer.xml
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Ninject.xml
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Ninject.Web.Common.xml
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Ninject.Web.Mvc.xml
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\System.Web.Helpers.xml
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\System.Web.Mvc.xml
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\System.Web.Optimization.xml
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\System.Web.Razor.xml
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\System.Web.WebPages.xml
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\System.Web.WebPages.Deployment.xml
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\System.Web.WebPages.Razor.xml
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Antlr3.Runtime.pdb
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Newtonsoft.Json.xml
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Microsoft.Owin.xml
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Microsoft.Owin.Security.xml
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\obj\Debug\IoC.Web.csprojResolveAssemblyReference.cache
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\obj\Debug\IoC.Web.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\InversionOfControl\obj\Debug\IoC.Web.pdb
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\IoC.Web.dll.config
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\IoC.Web.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\IoC.Web.pdb
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Antlr3.Runtime.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\EntityFramework.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\IoC.Core.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\IoC.Data.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\IoC.Service.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Microsoft.Owin.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Newtonsoft.Json.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Ninject.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Ninject.Web.Common.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Owin.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\System.Web.Helpers.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\System.Web.Mvc.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\System.Web.Optimization.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\System.Web.Razor.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\System.Web.WebPages.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\WebActivatorEx.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\WebGrease.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\IoC.Core.pdb
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\IoC.Data.pdb
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\IoC.Service.pdb
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\EntityFramework.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Ninject.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Ninject.Web.Common.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\System.Web.Helpers.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\System.Web.Mvc.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\System.Web.Optimization.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\System.Web.Razor.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\System.Web.WebPages.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Antlr3.Runtime.pdb
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Newtonsoft.Json.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Microsoft.Owin.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\obj\Debug\IoC.Web.csprojResolveAssemblyReference.cache
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\obj\Debug\IoC.Web.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Web\obj\Debug\IoC.Web.pdb
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\IoC.Web.dll.config
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\IoC.Web.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\IoC.Web.pdb
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Antlr3.Runtime.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\EntityFramework.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\IoC.Core.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\IoC.Data.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\IoC.Service.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Microsoft.Owin.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Newtonsoft.Json.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Ninject.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Ninject.Web.Common.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Owin.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\System.Web.Helpers.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\System.Web.Mvc.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\System.Web.Optimization.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\System.Web.Razor.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\System.Web.WebPages.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\WebActivatorEx.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\WebGrease.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\IoC.Core.pdb
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\IoC.Data.pdb
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\IoC.Service.pdb
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\EntityFramework.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Ninject.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Ninject.Web.Common.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\System.Web.Helpers.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\System.Web.Mvc.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\System.Web.Optimization.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\System.Web.Razor.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\System.Web.WebPages.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Antlr3.Runtime.pdb
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Newtonsoft.Json.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Microsoft.Owin.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\obj\Debug\IoC.Web.csprojResolveAssemblyReference.cache
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\obj\Debug\IoC.Web.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl_CodeFirst\InversionOfControl\IoC.Web\obj\Debug\IoC.Web.pdb
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\IoC.Web.dll.config
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\IoC.Web.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\IoC.Web.pdb
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Antlr3.Runtime.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\EntityFramework.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\IoC.Core.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\IoC.Data.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\IoC.Service.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Microsoft.Owin.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Newtonsoft.Json.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Ninject.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Ninject.Web.Common.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Owin.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\System.Web.Helpers.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\System.Web.Mvc.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\System.Web.Optimization.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\System.Web.Razor.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\System.Web.WebPages.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\WebActivatorEx.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\WebGrease.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\IoC.Core.pdb
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\IoC.Data.pdb
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\IoC.Service.pdb
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\EntityFramework.xml
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Ninject.xml
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Ninject.Web.Common.xml
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\System.Web.Helpers.xml
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\System.Web.Mvc.xml
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\System.Web.Optimization.xml
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\System.Web.Razor.xml
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\System.Web.WebPages.xml
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Newtonsoft.Json.xml
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Microsoft.Owin.xml
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\obj\Debug\IoC.Web.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\obj\Debug\IoC.Web.dll
+C:\Users\Developer\Downloads\Inversion-Of-Control-master\Inversion-Of-Control-master\IoC.Web\obj\Debug\IoC.Web.pdb
